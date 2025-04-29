@@ -1301,6 +1301,16 @@ id,identifier,species_id,height,weight,base_experience,order,is_default
 10275,ogerpon-cornerstone-mask,1017,12,398,,,0
 10276,terapagos-terastal,1024,3,160,,,0
 10277,terapagos-stellar,1024,17,770,,,0
+10500,lugia-small,249,52,2160,340,344,0
+10501,lugia-mid,249,52,2160,340,344,0
+10502,latias-small,380,14,400,300,503,0
+10503,latias-mid,380,14,400,300,503,0
+10504,celebi-small,251,6,50,300,346,1
+10505,celebi-mid,251,6,50,300,346,1
+10506,mew-small,151,4,40,300,248,1
+10507,mew-mid,151,4,40,300,248,1
+10508,koraidon-small,1007,25,3030,335,998,1
+10509,koraidon-mid,1007,25,3030,335,998,1
 20002,mystic-frill,20002,17,770,,,0
 20004,sacred-iron,20004,7,233,,,0
 20005,flaming-spears,20005,16,381,,,0
