@@ -1311,7 +1311,12 @@ id,identifier,species_id,height,weight,base_experience,order,is_default
 10507,mew-mid,151,4,40,300,248,1
 10508,koraidon-small,1007,25,3030,335,998,1
 10509,koraidon-mid,1007,25,3030,335,998,1
+10510,zacian-small,888,28,1100,335,1075,1
+10511,zacian-mid,888,28,1100,335,1075,1
+10512,suicune-small,245,20,1870,290,339,1
+10513,suicune-mid,245,20,1870,290,339,1
 20002,mystic-frill,20002,17,770,,,0
 20004,sacred-iron,20004,7,233,,,0
 20005,flaming-spears,20005,16,381,,,0
+20006,storm-cloak,20006,16,381,,,0
 21001,mizutsune,21001,16,381,,,0
