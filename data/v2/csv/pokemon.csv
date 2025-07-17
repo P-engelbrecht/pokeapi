@@ -1315,6 +1315,10 @@ id,identifier,species_id,height,weight,base_experience,order,is_default
 10511,zacian-mid,888,28,1100,335,1075,1
 10512,suicune-small,245,20,1870,290,339,1
 10513,suicune-mid,245,20,1870,290,339,1
+10514,shaymin-land-small,492,2,21,270,606,1
+10515,shaymin-land-mid,492,2,21,270,606,1
+10516,shaymin-sky-small,492,4,52,270,607,0
+10517,shaymin-sky-mid,492,4,52,270,607,0
 20002,mystic-frill,20002,17,770,,,0
 20004,sacred-iron,20004,7,233,,,0
 20005,flaming-spears,20005,16,381,,,0
