@@ -1319,6 +1319,8 @@ id,identifier,species_id,height,weight,base_experience,order,is_default
 10515,shaymin-land-mid,492,2,21,270,606,1
 10516,shaymin-sky-small,492,4,52,270,607,0
 10517,shaymin-sky-mid,492,4,52,270,607,0
+10518,iron-valiant-small,1006,14,350,295,993,1
+10519,iron-valiant-mid,1006,14,350,295,993,1
 20002,mystic-frill,20002,17,770,,,0
 20004,sacred-iron,20004,7,233,,,0
 20005,flaming-spears,20005,16,381,,,0
